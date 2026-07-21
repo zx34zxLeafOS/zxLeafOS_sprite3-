@@ -1,7 +1,7 @@
 {
-  "最新版本": 18,
-  "最新版本号": "Beta 2.0 0701",
-  "视频链接": "https://www.bilibili.com/video/BV1vk7h6dENp/?share_source=copy_web&vd_source=32b68b426b7e1f76faf106dc01db6170",
-  "新增功能": "修复了一些BUG，加入代码编辑器，加入了计算器，更新了一张默认的橙色壁纸，文件管理支持读取无密码的zip格式的文件",
-  "更新时间": "2026.07.01 11:23"
+  "最新版本": 19,
+  "最新版本号": "Beta 2.0 0721",
+  "视频链接": "https://www.bilibili.com/video/BV1wcKG6XEis/?share_source=copy_web&vd_source=32b68b426b7e1f76faf106dc01db6170&t=8",
+  "新增功能": "修复了一些BUG，重新修改了OOBE的动画与UI，动画细节上的调整，文件管理支持读取无密码的zip格式的文件，zx办公即将加入文档编辑功能！",
+  "更新时间": "2026.07.21 10:37"
 }
