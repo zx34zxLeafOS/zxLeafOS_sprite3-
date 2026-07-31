@@ -1,1 +1,47 @@
-[{"应用名":"应用模板","版本":"","最低支持版本":1,"应用大小":"3.79MB","应用简介":"文本","应用图标":"https://example.com/icon.svg","应用角色":["https://cdn.jsdelivr.net/gh/zx34zxLeafOS/zxLeafOS_sprite3-@main/示例程序窗口.sprite3","https://cdn.jsdelivr.net/gh/zx34zxLeafOS/zxLeafOS_sprite3-@main/示例程序叉.sprite3","https://cdn.jsdelivr.net/gh/zx34zxLeafOS/zxLeafOS_sprite3-@main/示例程序大小.sprite3","https://cdn.jsdelivr.net/gh/zx34zxLeafOS/zxLeafOS_sprite3-@main/示例程序最小化.sprite3"]},{"应用名":"五子棋","版本":"","最低支持版本":1,"应用大小":"1.79MB","应用简介":"文本","应用图标":"https://example.com/icon.svg","应用角色":["https://cdn.jsdelivr.net/gh/zx34zxLeafOS/zxLeafOS_sprite3-@main/示例程序窗口.sprite3","https://cdn.jsdelivr.net/gh/zx34zxLeafOS/zxLeafOS_sprite3-@main/示例程序叉.sprite3","https://cdn.jsdelivr.net/gh/zx34zxLeafOS/zxLeafOS_sprite3-@main/示例程序大小.sprite3","https://cdn.jsdelivr.net/gh/zx34zxLeafOS/zxLeafOS_sprite3-@main/示例程序最小化.sprite3"]}]
+[
+  {
+    "name": "应用模板",
+    "desc": "官方应用模板",
+    "author": "zx34owo",
+    "version": "1.0",
+    "size": "120MB",
+    "category": "系统",
+    "url": "https://example.com/download/parkour"
+  },
+  {
+    "name": "github",
+    "desc": "zxLeafOS版github",
+    "author": "zx34owo",
+    "version": "2.1",
+    "size": "45MB",
+    "category": "开发",
+    "url": "https://example.com/download/math"
+  },
+  {
+    "name": "像素画板",
+    "desc": "简单易用的像素艺术创作软件",
+    "author": "zx34owo",
+    "version": "1.5",
+    "size": "15MB",
+    "category": "系统",
+    "url": "https://example.com/download/pixel"
+  },
+  {
+    "name": "单词记忆卡",
+    "desc": "利用艾宾浩斯曲线帮助背单词",
+    "author": "zx34owo",
+    "version": "3.0",
+    "size": "30MB",
+    "category": "教育",
+    "url": "https://example.com/download/words"
+  },
+  {
+    "name": "物理模拟器",
+    "desc": "模拟重力、碰撞等物理现象的沙盒",
+    "author": "zx34owo",
+    "version": "0.9",
+    "size": "85MB",
+    "category": "游戏",
+    "url": "https://example.com/download/physics"
+  }
+]
