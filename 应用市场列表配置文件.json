@@ -6,7 +6,7 @@
     "version": "1.0",
     "size": "5.62MB",
     "category": "系统",
-    "url": "https://example.com/download/parkour"
+    "url": "https://raw.githubusercontent.com/zx34zxLeafOS/zxLeafOS_sprite3-/main/%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.zip"
   },
   {
     "name": "github",
@@ -15,7 +15,7 @@
     "version": "2.1",
     "size": "10MB",
     "category": "开发",
-    "url": "https://example.com/download/math"
+    "url": "https://raw.githubusercontent.com/zx34zxLeafOS/zxLeafOS_sprite3-/main/%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.zip"
   },
   {
     "name": "像素画板",
@@ -24,7 +24,7 @@
     "version": "1.5",
     "size": "10MB",
     "category": "系统",
-    "url": "https://example.com/download/pixel"
+    "url": "https://raw.githubusercontent.com/zx34zxLeafOS/zxLeafOS_sprite3-/main/%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.zip"
   },
   {
     "name": "单词记忆卡",
@@ -33,7 +33,7 @@
     "version": "3.0",
     "size": "10MB",
     "category": "教育",
-    "url": "https://example.com/download/words"
+    "url": "https://raw.githubusercontent.com/zx34zxLeafOS/zxLeafOS_sprite3-/main/%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.zip"
   },
   {
     "name": "物理模拟器",
@@ -42,6 +42,6 @@
     "version": "0.9",
     "size": "10MB",
     "category": "游戏",
-    "url": "https://example.com/download/physics"
+    "url": "https://raw.githubusercontent.com/zx34zxLeafOS/zxLeafOS_sprite3-/main/%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.zip"
   }
 ]
