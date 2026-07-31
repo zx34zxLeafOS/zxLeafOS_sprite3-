@@ -4,7 +4,7 @@
     "desc": "官方应用模板",
     "author": "zx34owo",
     "version": "1.0",
-    "size": "120MB",
+    "size": "5.62MB",
     "category": "系统",
     "url": "https://example.com/download/parkour"
   },
@@ -13,7 +13,7 @@
     "desc": "zxLeafOS版github",
     "author": "zx34owo",
     "version": "2.1",
-    "size": "45MB",
+    "size": "10MB",
     "category": "开发",
     "url": "https://example.com/download/math"
   },
@@ -22,7 +22,7 @@
     "desc": "简单易用的像素艺术创作软件",
     "author": "zx34owo",
     "version": "1.5",
-    "size": "15MB",
+    "size": "10MB",
     "category": "系统",
     "url": "https://example.com/download/pixel"
   },
@@ -31,7 +31,7 @@
     "desc": "利用艾宾浩斯曲线帮助背单词",
     "author": "zx34owo",
     "version": "3.0",
-    "size": "30MB",
+    "size": "10MB",
     "category": "教育",
     "url": "https://example.com/download/words"
   },
@@ -40,7 +40,7 @@
     "desc": "模拟重力、碰撞等物理现象的沙盒",
     "author": "zx34owo",
     "version": "0.9",
-    "size": "85MB",
+    "size": "10MB",
     "category": "游戏",
     "url": "https://example.com/download/physics"
   }
