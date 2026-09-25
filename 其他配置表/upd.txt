@@ -1,0 +1,11 @@
+{
+  "updlist": [
+    "https:hotfix_bundle_01.zip",
+    "https:hotfix_bundle_01.zip",
+    "https:hotfix_bundle_01.zip"
+  ],
+  "更新策略": {
+    "是否强制更新": false,
+    "最低兼容版本": "20.8"
+  }
+}
